@@ -3,9 +3,9 @@ import './Footer.css'
 
 function Footer({ theme }) {
   const year = useMemo(() => {
-    return 2024; // Hardcoded year
+    return 2024; // Hardcoded year (2024)
   }, []);
-
+  
   return (
     <footer className={`${theme}-footer`}>
       <div className="footer-content">
