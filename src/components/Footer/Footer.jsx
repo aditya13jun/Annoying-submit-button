@@ -33,7 +33,7 @@ function Footer({ theme }) {
               </a>
             </li>
             <li>
-              <a href="https://twitter.com/fineanmol" target="_blank">
+              <a href="https://www.x.com/fineanmol" target="_blank">
                 <i className="fa fa-twitter" />
               </a>
             </li>
