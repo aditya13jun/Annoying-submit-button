@@ -49,7 +49,7 @@ function Footer({ theme }) {
           {' '}
           <b>
             <a href="https://hacktoberfest.com/" id="hf-theme" target="_blank">
-              Hacktoberfest
+              Hacktoberfest 2024
             </a>
           </b>
           {' '}
